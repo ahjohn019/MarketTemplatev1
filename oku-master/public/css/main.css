@@ -1,0 +1,19 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.jumbotron{
+background-image: url("../img/homepage_banner.jpg");
+color: black;
+margin-bottom: 0px;
+height: 350px;
+background-repeat: no-repeat;
+-webkit-background-size: cover;
+background-size: cover;   
+};
+
+
+
+
